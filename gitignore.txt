@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.local
+.env.production
+*.env
+
+# Node.js
+node_modules/
+.next/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editors and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
