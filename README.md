@@ -1,6 +1,6 @@
 # CompellingCore
 
-A Vercel-ready Next.js drop platform with Discord OAuth, live role verification, four drop categories, private Cloudflare R2 attachments, PostgreSQL persistence, and automatic Discord webhook embeds.
+A Vercel-ready Next.js drop platform with Discord OAuth, live role verification, four drop categories, private Cloudflare R2 attachments, PostgreSQL persistence, and automatic Discord webhook embeds!
 
 > Use the Accounts category only for accounts, licences, or credentials you own and are authorized to distribute. Never publish third-party passwords, session tokens, cookies, or stolen access.
 
