@@ -21,6 +21,9 @@
     "react-dom": "19.2.7",
     "zod": "4.4.3"
   },
+  "engines": {
+  "node": "24.x"
+  },
   "devDependencies": {
     "@types/node": "24.10.0",
     "@types/react": "19.2.2",
